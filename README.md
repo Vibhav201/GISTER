@@ -3,8 +3,8 @@
 - Built from scratch with HTML & CSS
 - A completely responsive website for all device widths
 ---
-- Snapshots of the Demo:
----
+## Snapshots of the Demo:
+
 ![Image 1](./readme_img/1.png)
 ---
 ![Image 2](./readme_img/2.png)
