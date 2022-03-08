@@ -1,4 +1,4 @@
-# GISTER - A News Website using the NewsAPI and jQuery
+# GISTER - A News Website built using the NewsAPI and jQuery
 
 - Built from scratch with HTML & CSS
 
